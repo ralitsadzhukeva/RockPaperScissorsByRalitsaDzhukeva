@@ -39,7 +39,7 @@ public class RockPaperScissors {
             System.out.println("You lose.");
         }
         else {
-            System.out.println("The game was a draw.");
+            System.out.println("The game was a draw");
         }
     }
 }
